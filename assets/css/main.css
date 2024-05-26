@@ -689,7 +689,7 @@ input, select, textarea {
 
 			.image.main img {
 				width: 40%;
-				margin-left: 225px;
+				margin-left: 160px;
 			}
 
 		@media screen and (max-width: 736px) {
